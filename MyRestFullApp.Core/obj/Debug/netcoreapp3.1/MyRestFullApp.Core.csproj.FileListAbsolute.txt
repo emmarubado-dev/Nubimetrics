@@ -1,0 +1,10 @@
+C:\Proyectos\Nubimetrics\MyRestFullApp.Core\obj\Debug\netcoreapp3.1\MyRestFullApp.Core.csproj.AssemblyReference.cache
+C:\Proyectos\Nubimetrics\MyRestFullApp.Core\obj\Debug\netcoreapp3.1\MyRestFullApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\Nubimetrics\MyRestFullApp.Core\obj\Debug\netcoreapp3.1\MyRestFullApp.Core.AssemblyInfoInputs.cache
+C:\Proyectos\Nubimetrics\MyRestFullApp.Core\obj\Debug\netcoreapp3.1\MyRestFullApp.Core.AssemblyInfo.cs
+C:\Proyectos\Nubimetrics\MyRestFullApp.Core\obj\Debug\netcoreapp3.1\MyRestFullApp.Core.csproj.CoreCompileInputs.cache
+C:\Proyectos\Nubimetrics\MyRestFullApp.Core\bin\Debug\netcoreapp3.1\MyRestFullApp.Core.deps.json
+C:\Proyectos\Nubimetrics\MyRestFullApp.Core\bin\Debug\netcoreapp3.1\MyRestFullApp.Core.dll
+C:\Proyectos\Nubimetrics\MyRestFullApp.Core\bin\Debug\netcoreapp3.1\MyRestFullApp.Core.pdb
+C:\Proyectos\Nubimetrics\MyRestFullApp.Core\obj\Debug\netcoreapp3.1\MyRestFullApp.Core.dll
+C:\Proyectos\Nubimetrics\MyRestFullApp.Core\obj\Debug\netcoreapp3.1\MyRestFullApp.Core.pdb

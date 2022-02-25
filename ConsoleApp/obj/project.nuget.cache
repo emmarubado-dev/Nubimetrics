@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0ziLmXfBF+npYLPwqBeW+ZYJR8vO8MmsoXnAupxWL4yrU+IeYho26IqLaQ3q9XOhSYFH/egKwNJygopSj6mp+g==",
+  "success": true,
+  "projectFilePath": "C:\\Proyectos\\Nubimetrics\\ConsoleApp\\ConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\erubado\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
